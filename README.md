@@ -49,7 +49,7 @@ This repository contains beginner-friendly implementations of core machine learn
 
 ## ▶️ How to Run
 
-1. Clone the repo:
+1. Clone the repo and Run Locally :
 
    ```bash
    git clone https://github.com/priyankapinky2004/AIML_Workshop.git
